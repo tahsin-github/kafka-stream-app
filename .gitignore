@@ -1,1 +1,2 @@
 src/main/resources/server.properties
+src/main/resources/confluentServer.config
